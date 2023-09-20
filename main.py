@@ -12,3 +12,11 @@ with col2:
     Hi I'm 30 yo. developer
     """
     st.info(content)
+
+content2 = """
+Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+ sed do eiusmod tempor incididunt ut labore et dolore magna 
+ aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
+ ullamco laboris nisi ut aliquip ex ea commodo consequat
+"""
+st.write(content2)
